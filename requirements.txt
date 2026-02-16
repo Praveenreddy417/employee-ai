@@ -1,3 +1,8 @@
+--prefer-binary
+numpy
+scipy
+onnxruntime
+
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.3
 aiosignal==1.4.0
@@ -75,7 +80,7 @@ mypy_extensions==1.1.0
 networkx==3.4.2
 numpy==1.26.4
 oauthlib==3.3.1
-onnxruntime==1.16.3
+onnxruntime==1.24.1
 openai==2.21.0
 opentelemetry-api==1.39.1
 opentelemetry-exporter-otlp-proto-common==1.39.1
